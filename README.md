@@ -12,3 +12,8 @@ become physics majors after a year.
 ![grafo](https://user-images.githubusercontent.com/60082907/77282679-980c6780-6c98-11ea-8550-0342a74062fe.PNG)
 
 (b) Give the corresponding adjacency matrix.
+
+![Matriz](https://user-images.githubusercontent.com/60082907/77283099-9f804080-6c99-11ea-8044-c425f55c90ba.PNG)
+
+(c) If a student is majoring in one of these three areas, indicate her probable major after 2, 4, and 8 years
+
