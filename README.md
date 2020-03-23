@@ -41,9 +41,9 @@ En clase simulamos este experimento y el resultado fue el siguiente:
  
 Para obtener este resultado utilizamos la siguiente base:
 
+![base1](https://user-images.githubusercontent.com/60082907/77287944-c09a5e80-6ca4-11ea-8706-5f0ed459a6ba.jpeg)
 
-
-
+![base2](https://user-images.githubusercontent.com/60082907/77287984-d7d94c00-6ca4-11ea-81a1-9bb7f5a7528e.jpeg)
 
 
 
