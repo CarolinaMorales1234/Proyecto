@@ -1,4 +1,6 @@
 # Proyecto
+
+## Experimento de la doble rendija (probabilístico).
 Consider the following hypothetical situation at a hypothetical college.
 Thirty percent of all math majors become computer science majors after one
 year. Another 60% become physics majors after one year. After a year, 70% of
@@ -15,5 +17,40 @@ become physics majors after a year.
 
 ![Matriz](https://user-images.githubusercontent.com/60082907/77283099-9f804080-6c99-11ea-8044-c425f55c90ba.PNG)
 
-(c) If a student is majoring in one of these three areas, indicate her probable major after 2, 4, and 8 years
+(c) If a student is majoring in one of these three areas, indicate her probable major after 2, 4 and 8 years
+
+![2años](https://user-images.githubusercontent.com/60082907/77283484-744a2100-6c9a-11ea-8296-2a9d5c2f7a62.PNG)
+
+## Reseña del experimento de la doble rendija físico.
+
+En 1801 Young diseño el experimento de la doble rendija con el fin de determinar la naturaleza de la luz
+Si tuvieramos unas canicas que son lanzadas con el fin de atravesar a una pared con una rendija, se podría 
+observar es una linea bien definida ahora si se tienen dos ranuras y por ahi se hacen pasar por las canicas, se 
+espera que ahor hayan dos lineas bien definidas.
+Después al probar con ondas, estas alcanzan las 2 ranuras, y al atravesarlas se dividen entre ellas y al llegar a una
+parde se puede observar un patron de interferencias con muchas franjas.
+Luego se el hace el experimento con electrone, entonces estos cuando son lanzados a una rendija se comportan igual 
+que con las canicas, pero si se se lanzan a dos rendijas el resultado no es como el de las canicas cuando pasan por dos 
+rendijas, sino que se forma un patron de interderencias como las ondas. Esto se acasiona debido a que cada electron sale
+como particulas luego se convierte en ondas de probabilidades, atraviesa las rendijas e interfiere consigo mismo hasta llegar 
+la parded por lo que forma un patron.
+
+En clase simulamos este experimento y el resultado fue el siguiente:
+
+
+
+
+
+
+
+## Bibliografía
+
+https://www.aulafacil.com/articulos/ciencia-y-tecnologia/experimento-de-mecanica-cuantica-casero-la-doble-rendija-t1304
+
+
+
+
+
+
+
 
