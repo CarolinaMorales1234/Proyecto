@@ -37,6 +37,10 @@ la parded por lo que forma un patron.
 
 En clase simulamos este experimento y el resultado fue el siguiente:
 
+![resultado](https://user-images.githubusercontent.com/60082907/77287851-89c44880-6ca4-11ea-9e29-d3952f4d1805.jpeg)
+ 
+Para obtener este resultado utilizamos la siguiente base:
+
 
 
 
