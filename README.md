@@ -50,6 +50,7 @@ Para obtener este resultado utilizamos la siguiente base:
 ## Bibliografía
 
 https://www.aulafacil.com/articulos/ciencia-y-tecnologia/experimento-de-mecanica-cuantica-casero-la-doble-rendija-t1304
+
 https://www.youtube.com/watch?v=SzX-R38dZQw
 
 
